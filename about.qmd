@@ -2,7 +2,7 @@
 title: "About"
 ---
 
-Still under construction!
+Still under construction! I am updating as fast as I can.
 
 ```{r}
 1 + 1

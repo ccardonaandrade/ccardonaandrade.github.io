@@ -6,7 +6,7 @@ about:
   image-shape: rounded
   image-width: 15em
   links:
-    - icon: Twitter
+    - icon: twitter
       text: Twitter
       href: https://twitter.com/ccardonaandrade
 ---
