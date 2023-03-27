@@ -11,6 +11,13 @@
     "href": "index.html",
     "title": "Carlos Cardona Andrade",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "Welcome to my website!"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Carlos Cardona Andrade",
+    "section": "Education",
+    "text": "Education\nUniversity of Warwick | Coventry, UK PhD in Economics | Oct 2019 - in progress\nUniversity of Warwick | Coventry, UK MRes in Economics | Sept 2017 - Sept 2019"
   }
 ]
