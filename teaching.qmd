@@ -21,7 +21,7 @@ subtitle: "Syllabi and websites for some of the courses I have taught in UK and 
 ### Teaching Assistant at Universidad del Rosario
 
 - Quantitative Analysis I (Main Lecturer) 
-  - You can find here the [syllabys](https://www.dropbox.com/s/08txrf1uiw4fsev/syllabus.pdf?dl=0) and the [slides](https://www.dropbox.com/scl/fo/7h2zfdts3ux7rrmtd8jw1/h?dl=0&rlkey=k8gr1fwc0674b7n07bcu9kbgj). All the material is in Spanish.
+  - You can find here the [syllabus](https://www.dropbox.com/s/08txrf1uiw4fsev/syllabus.pdf?dl=0) and the [slides](https://www.dropbox.com/scl/fo/7h2zfdts3ux7rrmtd8jw1/h?dl=0&rlkey=k8gr1fwc0674b7n07bcu9kbgj). All the material is in Spanish.
 
 - Microeconomics II 
 
