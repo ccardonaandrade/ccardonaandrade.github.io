@@ -1,36 +1,37 @@
 ---
 title: "Teaching"
-subtitle: "Syllabi and websites for my courses"
+subtitle: "Syllabi and websites for some of the courses I have taught in UK and Colombia"
 ---
 
 ## Undergraduate
 
-### University of Warwick
+### Teaching Assistant at University of Warwick
 
 - [Environmental Economics](https://warwick.ac.uk/study/summer-with-warwick/warwick-summer-school/courses/environmentaleconomics)
 
-- [EC203: Applied Econometrics](https://warwick.ac.uk/fac/soc/economics/current/modules/ec203/)
+- [EC203: Applied Econometrics](https://warwick.ac.uk/fac/soc/economics/current/modules/ec203/) - [Teaching Evaluation](https://drive.google.com/file/d/1BPiXn6dRN68dic4U61lSqynDtBeYOfsO/view?usp=share_link)
 
-- [EC108: Industrial Economics 1: Market Structure](https://warwick.ac.uk/fac/soc/economics/current/modules/ec208/)
+- [EC108: Industrial Economics 1: Market Structure](https://warwick.ac.uk/fac/soc/economics/current/modules/ec208/) - [Teaching Evaluation 1](https://drive.google.com/file/d/1kRF975Akka362s4vc5BLe7sBhjdyTjQD/view?usp=share_link), [2](https://drive.google.com/file/d/1DRCh6xefFDrWvv5_mJgeS0keRcX5hDbK/view?usp=share_link)
 
-- [EC226: Econometrics I](https://warwick.ac.uk/fac/soc/economics/current/modules/ec226/)
+- [EC226: Econometrics I](https://warwick.ac.uk/fac/soc/economics/current/modules/ec226/) - [Teaching Evaluation](https://drive.google.com/file/d/1tSbmAJcONK--VCIKA0TXY2dsCO5w4Nlu/view?usp=share_link)
 
 - [EC131: Economics for Business](https://warwick.ac.uk/fac/soc/economics/current/modules/ec131/)
 
 
-### Universidad del Rosario
+### Teaching Assistant at Universidad del Rosario
 
-- Quantitative Analysis I (Lecturer) 
+- Quantitative Analysis I (Main Lecturer) 
+  - You can find here the [syllabys](https://www.dropbox.com/s/08txrf1uiw4fsev/syllabus.pdf?dl=0) and the [slides](https://www.dropbox.com/scl/fo/7h2zfdts3ux7rrmtd8jw1/h?dl=0&rlkey=k8gr1fwc0674b7n07bcu9kbgj). All the material is in Spanish.
 
-- Teaching Assistant Microeconomics II 
+- Microeconomics II 
 
-- Teaching Assistant Principles of Microeconomics
+- Principles of Microeconomics
 
-- Teaching Assistant Integral Calculus 
+- Integral Calculus 
 
-- Teaching Assistant Principles of Economics 
+- Principles of Economics 
 
 
-### CESA}
+### Teaching Assistant at CESA
 
--  Microeconomics 2015
+-  Microeconomics 
