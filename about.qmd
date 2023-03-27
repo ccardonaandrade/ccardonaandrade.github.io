@@ -2,7 +2,7 @@
 title: "About"
 ---
 
-About this site
+Still under construction!
 
 ```{r}
 1 + 1

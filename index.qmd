@@ -10,12 +10,14 @@ about:
       href: https://twitter.com/ccardonaandrade
 ---
 
-Welcome to my website!
+Welcome to my website! It is still under construction as you might notice.
 
 ## Education
 
 University of Warwick | Coventry, UK
+
 PhD in Economics | Oct 2019 - in progress
 
 University of Warwick | Coventry, UK
+
 MRes in Economics | Sept 2017 - Sept 2019
