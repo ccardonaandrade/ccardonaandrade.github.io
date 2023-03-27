@@ -1,0 +1,19 @@
+---
+title: "Teaching"
+subtitle: "Syllabi and websites for my courses"
+---
+
+## Undergraduate
+
+### University of Warwick
+
+- [Environmental Economics](https://warwick.ac.uk/study/summer-with-warwick/warwick-summer-school/courses/environmentaleconomics)
+
+- [EC203: Applied Econometrics](https://warwick.ac.uk/fac/soc/economics/current/modules/ec203/)
+
+- [EC108: Industrial Economics 1: Market Structure](https://warwick.ac.uk/fac/soc/economics/current/modules/ec208/)
+
+- [EC226: Econometrics I](https://warwick.ac.uk/fac/soc/economics/current/modules/ec226/)
+
+- [EC131: Economics for Business](https://warwick.ac.uk/fac/soc/economics/current/modules/ec131/)
+
