@@ -10,10 +10,12 @@ about:
       href: https://twitter.com/ccardonaandrade
 ---
 
-This is a Quarto website.
+Welcome to my website!
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+## Education
 
-```{r}
-1 + 1
-```
+University of Warwick | Coventry, UK
+PhD in Economics | Oct 2019 - in progress
+
+University of Warwick | Coventry, UK
+MRes in Economics | Sept 2017 - Sept 2019
