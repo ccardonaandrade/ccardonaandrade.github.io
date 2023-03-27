@@ -8,8 +8,9 @@ about:
   links:
     - icon: envelope
       href: mailto:c.cardona-andrade@warwick.ac.uk
+    - icon: github
+      href: https://github.com/ccardonaandrade
     - icon: twitter
-      text: Twitter
       href: https://twitter.com/ccardonaandrade
     - icon: CV
       text: CV
@@ -30,7 +31,7 @@ I am a PhD candidate in economics at [The University of Warwick](https://warwick
 
 **MA in Economics, 2016** | Universidad del Rosario
 
-**BA in Economics, 2016** | Universidad del Rosario
+**BA in Economics, 2014** | Universidad del Rosario
 
 ### Research interests
 
