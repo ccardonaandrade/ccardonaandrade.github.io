@@ -2,13 +2,4 @@
 title: "About"
 ---
 
-Still under construction! I am updating as fast as I can.
-
-```{r}
-1 + 1
-```
-
-```{r load_packages, message=FALSE, warning=FALSE, include=FALSE} 
-library(fontawesome)
-```
-`r fontawesome::fa("graduation-cap", fill = "#022851", a11y = "sem")` does work
+The plan is adding interesting resources here
