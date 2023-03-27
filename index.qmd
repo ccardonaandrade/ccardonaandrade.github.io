@@ -4,21 +4,36 @@ image: "profile.jpg"
 about: 
   template: trestles
   image-shape: rounded
-  image-width: 15em
+  image-width: 16em
   links:
+    - icon: evelope
+      href: c.cardona-andrade@warwick.ac.uk
     - icon: twitter
       text: Twitter
       href: https://twitter.com/ccardonaandrade
+    - icon: CV
+      href: https://drive.google.com/file/d/1xAaeMIvcELOfOvGs0sldAlZ9QsCVnKrV/view?usp=share_link
 ---
+
+### Bio
 
 Welcome to my website! It is still under construction as you might notice.
 
-## Education
+I am a PhD candidate in economics at [The University of Warwick](https://warwick.ac.uk/)
 
-**University of Warwick** | Coventry, UK
+### Education
 
-PhD in Economics | Oct 2019 - in progress
+**PhD in Economics, 2024 (expected)** | University of Warwick
 
-**University of Warwick** | Coventry, UK
+**MRes in Economics, 2019** | University of Warwick
 
-MRes in Economics | Sept 2017 - Sept 2019
+**MA in Economics, 2016** | Universidad del Rosario
+
+**BA in Economics, 2016** | Universidad del Rosario
+
+### Research interests
+
+Development Economics | Political Economy | Economic History
+
+
+
