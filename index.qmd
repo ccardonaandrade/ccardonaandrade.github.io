@@ -1,11 +1,25 @@
----
-title: "ccardonaandrade.github.io"
----
+\-\--
+title: "Carlos Cardona Andrade"
+about:
+template: trestles
+image: profile.jpg
+links:
+ - icon: twitter
+text: twitter
+href: https://twitter.com/ccardonaandrade
+ - icon: github
+text: Github
+href: https://github.com/ccardonaandrade
+\-\--
 
-This is a Quarto website.
+Welcome to my website!
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+## Education
 
-```{r}
-1 + 1
-```
+University of Warwick \| Coventry, UK
+PhD in Economics \| Oct 2019 - in progress
+
+University of Warwick \| Coventry, UK
+MRes in Economics \| Sept 2017 - Sept 2019
+\
+
