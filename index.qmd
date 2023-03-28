@@ -1,6 +1,6 @@
 ---
 title: "Carlos Cardona Andrade"
-image: "profile2.png"
+image: "img/profile2.png"
 about: 
   template: trestles
   image-shape: rounded
@@ -19,9 +19,9 @@ about:
 
 ### Bio
 
-Welcome to my website! It is still under construction as you might notice.
+Welcome to my website! It is still under construction as you will notice while exploring other sections.
 
-I am a PhD candidate in economics at [The University of Warwick](https://warwick.ac.uk/)
+I am a PhD candidate in economics at [The University of Warwick](https://warwick.ac.uk/).
 
 ### Education
 ```{r load_packages, message=FALSE, warning=FALSE, include=FALSE} 

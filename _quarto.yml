@@ -11,7 +11,7 @@ website:
       - href: index.qmd
         text: Home
       - teaching.qmd
-      - about.qmd
+      - projects.qmd
 
 format:
   html:
