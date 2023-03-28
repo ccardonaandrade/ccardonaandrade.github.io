@@ -4,7 +4,9 @@ project:
 
 website:
   title: "Carlos Cardona Andrade"
+  search: false
   navbar:
+    pinned: true
     left:
       - href: index.qmd
         text: Home
@@ -14,7 +16,8 @@ website:
 format:
   html:
     theme: 
-      dark: slate
+        dark: slate
+        light: flatly
     css: styles.css
     toc: true
 
