@@ -2,11 +2,11 @@
 title: "Reconciling Weather Datasets in Africa"
 description: "Collection of Weather Datasets and their predictive power for agricultural output and conflict"
 editor: visual
-date: "28/03/2023"
+date: "03/28/2023"
 ---
 
 # Introduction
 
-![](img/tmp_cru_2013.png)
+![](img/tmp_cru_2013.png){fig-align="center" width="380"}
 
-This is a project aiming to collect the most used weather datasets for Africa by development economist, analyze their distinctive predictive power for agricutural output and conflict, and give a recommendation about when and how to improve their use. I will update the current state of the project soon.
+This is a project aiming to collect the most used weather datasets for Africa by development economist, analyze their distinctive predictive power for agricultural output and conflict, and give a recommendation about when and how to improve their use. I will update the current state of the project soon.
