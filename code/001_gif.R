@@ -31,6 +31,7 @@ library(murdock)
 library(lwgeom)
 library(gganimate)
 library(magick)
+library(transformr)
 
 
 setwd("C:/Users/ccard/Dropbox/AfricaWeather")
@@ -98,4 +99,34 @@ setwd("C:/Users/ccard/Documents/git/ccardonaandrade.github.io/img")
 ## save to disk
 image_write(image = img_animated,
             path = "precipitation.gif")
+
+
+map <- ORIGINAL  %>%
+  ggplot(aes()) + geom_sf(data = ORIGINAL, aes(fill=ORIGINAL[[5]]),color = NA)  + 
+  geom_sf(data = world, fill = "transparent") + theme_bw() +  
+  coord_sf(xlim = c(-30, 60), ylim = c(-40, 45), expand = FALSE) +
+  theme(panel.grid.major = element_blank(),
+        panel.border = element_blank(),
+        title =element_text(size=20, face='bold'),
+        axis.ticks.y = element_blank(),
+        axis.text.y = element_blank(),
+        axis.ticks.x = element_blank(),
+        axis.text.x = element_blank(),
+        legend.background = element_rect(fill = "white"),
+        legend.title=element_text(size=14),
+        legend.key = element_rect( fill = "gray92"),
+        legend.position = c(0.2, 0.3),
+        legend.key.size = unit(0.6, 'cm'),
+        legend.text=element_text(size=14)) +
+  scale_fill_continuous(low="powderblue", high="darkorchid4", 
+                        guide="colorbar",na.value="white",
+                        name="",limits = c(0,300))
+
+anim <- map + 
+  transition_states(ORIGINAL$year,transition_length = 1, state_length = 7, wrap = TRUE) + labs(title = "Precipitation (mm) - {closest_state}")
+
+image <- animate(anim)
+
+setwd("C:/Users/ccard/Documents/git/ccardonaandrade.github.io/img")
+anim_save("africa_rain.gif")
 
