@@ -6,7 +6,10 @@ date: "03/28/2023"
 ---
 
 # Introduction
+<center>
 
 ![Source: [Climatic Research Unit](https://www.uea.ac.uk/web/groups-and-centres/climatic-research-unit/data) data from the University of East Anglia](img/africa_rain.gif){fig-align="center" width="380"}
+
+</center>
 
 This is a project aiming to collect the most used weather datasets for Africa by development economist, analyze their distinctive predictive power for agricultural output and conflict, and give a recommendation about when and how to improve their use. I will update the current state of the project soon.
