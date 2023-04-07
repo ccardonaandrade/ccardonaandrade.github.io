@@ -24,22 +24,19 @@ Welcome to my website! It is still under construction as you will notice while e
 I am a PhD candidate in economics at [The University of Warwick](https://warwick.ac.uk/).
 
 ### Education
-```{r load_packages, message=FALSE, warning=FALSE, include=FALSE} 
+
+```{r load_packages, message=FALSE, warning=FALSE, include=FALSE}
 library(fontawesome)
 ```
 
-`r fontawesome::fa("graduation-cap", fill = "#660000", a11y = "sem")` **PhD in Economics, 2024 (expected)** | University of Warwick
+`r fontawesome::fa("graduation-cap", fill = "#660000", a11y = "sem")` **PhD in Economics, 2024 (expected)** \| University of Warwick
 
-`r fontawesome::fa("graduation-cap", fill = "#660000", a11y = "sem")` **MRes in Economics, 2019** | University of Warwick
+`r fontawesome::fa("graduation-cap", fill = "#660000", a11y = "sem")` **MRes in Economics, 2019** \| University of Warwick
 
-`r fontawesome::fa("graduation-cap", fill = "#660000", a11y = "sem")` **MA in Economics, 2016** | Universidad del Rosario
+`r fontawesome::fa("graduation-cap", fill = "#660000", a11y = "sem")` **MA in Economics, 2016** \| Universidad del Rosario
 
-`r fontawesome::fa("graduation-cap", fill = "#660000", a11y = "sem")` **BA in Economics, 2014** | Universidad del Rosario
-
+`r fontawesome::fa("graduation-cap", fill = "#660000", a11y = "sem")` **BA in Economics, 2014** \| Universidad del Rosario
 
 ### Research interests
 
-Development Economics | Political Economy | Economic History
-
-
-
+Development Economics \| Political Economy \| Economic History
