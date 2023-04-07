@@ -1,6 +1,6 @@
 ---
 title: "Teaching"
-subtitle: "Syllabi and websites for some of the courses I have taught in UK and Colombia"
+subtitle: "Syllabi and websites for some of the courses I have taught in the UK and Colombia"
 ---
 
 ## Undergraduate
@@ -9,11 +9,11 @@ subtitle: "Syllabi and websites for some of the courses I have taught in UK and 
 
 -   [Environmental Economics](https://warwick.ac.uk/study/summer-with-warwick/warwick-summer-school/courses/environmentaleconomics) (Summer School 2023)
 
--   [EC203: Applied Econometrics](https://warwick.ac.uk/fac/soc/economics/current/modules/ec203/) - [Teaching Evaluation](ec203_carlos_cardona)
+-   [EC203: Applied Econometrics](https://warwick.ac.uk/fac/soc/economics/current/modules/ec203/) - [Teaching Evaluation](teach_eval/ec203_carlos_cardona.pdf)
 
--   [EC108: Industrial Economics 1: Market Structure](https://warwick.ac.uk/fac/soc/economics/current/modules/ec208/) - [Teaching Evaluation 1](https://drive.google.com/file/d/1kRF975Akka362s4vc5BLe7sBhjdyTjQD/view?usp=share_link), [2](https://drive.google.com/file/d/1DRCh6xefFDrWvv5_mJgeS0keRcX5hDbK/view?usp=share_link)
+-   [EC108: Industrial Economics 1: Market Structure](https://warwick.ac.uk/fac/soc/economics/current/modules/ec208/) - [Teaching Evaluation 1](teach_eval/ec208_I_carlos_cardona.pdf), [2](teach_eval/ec208_II_carlos_cardona.pdf)
 
--   [EC226: Econometrics I](https://warwick.ac.uk/fac/soc/economics/current/modules/ec226/) - [Teaching Evaluation](https://drive.google.com/file/d/1tSbmAJcONK--VCIKA0TXY2dsCO5w4Nlu/view?usp=share_link)
+-   [EC226: Econometrics I](https://warwick.ac.uk/fac/soc/economics/current/modules/ec226/) - [Teaching Evaluation](teach_eval/ec226_carlos_cardona.pdf)
 
 -   [EC131: Economics for Business](https://warwick.ac.uk/fac/soc/economics/current/modules/ec131/)
 
