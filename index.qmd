@@ -14,7 +14,7 @@ about:
       href: https://twitter.com/ccardonaandrade
     - icon: CV
       text: CV
-      href: https://drive.google.com/file/d/1xAaeMIvcELOfOvGs0sldAlZ9QsCVnKrV/view?usp=share_link
+      href: carlos_cardona_cv.pdf
 ---
 
 ### Bio
