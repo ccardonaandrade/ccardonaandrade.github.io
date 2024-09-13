@@ -2,7 +2,7 @@
 title: "Carlos Cardona Andrade"
 image: "img/profile2.png"
 about: 
-  template: trestles
+  template: jolla
   image-shape: rounded
   image-width: 16em
   links:
@@ -29,7 +29,7 @@ I am a PhD candidate in economics at [The University of Warwick](https://warwick
 library(fontawesome)
 ```
 
-`r fontawesome::fa("graduation-cap", fill = "#660000", a11y = "sem")` **PhD in Economics, 2024 (expected)** \| University of Warwick
+`r fontawesome::fa("graduation-cap", fill = "#660000", a11y = "sem")` **PhD in Economics, 2024** \| University of Warwick
 
 `r fontawesome::fa("graduation-cap", fill = "#660000", a11y = "sem")` **MRes in Economics, 2019** \| University of Warwick
 
