@@ -6,6 +6,7 @@ website:
   title: "Carlos Cardona Andrade"
   search: false
   navbar:
+    pinned: true
     right:
       - href: index.qmd
         text: Home

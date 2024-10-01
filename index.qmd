@@ -7,7 +7,7 @@ about:
   image-width: 16em
   links:
     - icon: envelope
-      href: mailto:c.cardona-andrade@warwick.ac.uk
+      href: mailto:ccardonaandrade@gmail.com
     - icon: github
       href: https://github.com/ccardonaandrade
     - icon: twitter
