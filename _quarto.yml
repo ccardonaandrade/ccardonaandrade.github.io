@@ -14,6 +14,7 @@ website:
       - projects.qmd
       - href: cv/carlos_cardona_cv.pdf
         text: Resume
+        target: _blank
 
 format:
   html:

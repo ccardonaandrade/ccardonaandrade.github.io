@@ -9,7 +9,7 @@ subtitle: "Syllabi and websites for some of the courses I have taught in the UK 
 
 -   Data Analysis
 
-    -   You can find [here](https://github.com/ccardonaandrade/analisis_de_datos/tree/main) all the material in Spanish.
+    -   You can find [here](https://github.com/ccardonaandrade/analisis_de_datos/tree/main){target="_blank"} all the material in Spanish.
 
 ### Teaching Assistant at University of Warwick
 
