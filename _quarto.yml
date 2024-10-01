@@ -7,7 +7,7 @@ website:
   search: false
   navbar:
     pinned: true
-    right:
+    left:
       - href: index.qmd
         text: Home
       - teaching.qmd
