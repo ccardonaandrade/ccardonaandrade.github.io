@@ -18,11 +18,10 @@ website:
 format:
   html:
     theme: 
-        dark: sandstone
-        light: flatly
-    css: styles.css
-    toc: true
-    include-in-header: html/navbar.html
+        - sandstone
+        - html/custom-scss
+    toc: false
+    highlight-style: monokai
 
 editor: visual
 
