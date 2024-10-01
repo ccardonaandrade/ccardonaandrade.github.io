@@ -22,6 +22,7 @@ format:
         light: flatly
     css: styles.css
     toc: true
+    include-in-header: html/navbar.html
 
 editor: visual
 
