@@ -10,8 +10,10 @@ about:
       href: mailto:ccardonaandrade@gmail.com
     - icon: github
       href: https://github.com/ccardonaandrade
+      target: _blank
     - icon: twitter
       href: https://twitter.com/ccardonaandrade
+      target: _blank
     - icon: CV
       text: CV
       href: cv/carlos_cardona_cv.pdf
