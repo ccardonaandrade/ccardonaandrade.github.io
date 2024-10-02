@@ -13,8 +13,9 @@ website:
       - teaching.qmd
       - projects.qmd
       - href: cv/carlos_cardona_cv.pdf
-        text: Resume
         target: _blank
+        text: Resume
+        
 
 format:
   html:

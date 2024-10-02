@@ -15,6 +15,7 @@ about:
     - icon: CV
       text: CV
       href: cv/carlos_cardona_cv.pdf
+      target: _blank
 ---
 
 ### Bio
