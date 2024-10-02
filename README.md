@@ -1,1 +1,4 @@
-Welcome to the repo for my [website]( https://ccardonaandrade.github.io/){target="_blank"}. I built it using [Quarto]( https://quarto.org/){target="_blank"} and following the repos by [Andrew Heiss](https://www.andrewheiss.com/){target="_blank"} and [Juan Téllez](https://juanftellez.com/){target="_blank"}. 
+# Personal Website for Carlos Cardona Andrade
+
+
+Welcome to the repo for my [website]( https://ccardonaandrade.github.io/). I built it using [Quarto]( https://quarto.org/) and following the repos by [Andrew Heiss](https://www.andrewheiss.com/) and [Juan Téllez](https://juanftellez.com/). 
