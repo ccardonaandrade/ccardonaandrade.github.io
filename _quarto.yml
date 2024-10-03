@@ -25,6 +25,7 @@ format:
     theme: 
         - sandstone
         - html/custom.scss
+    fontawesome: true
     toc: false
     highlight-style: monokai
 
