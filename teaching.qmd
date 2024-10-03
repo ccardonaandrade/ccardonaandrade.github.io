@@ -7,9 +7,9 @@ subtitle: "Syllabi and websites for some of the courses I have taught in the UK 
 
 ### Lecturer at Universidad Javeriana
 
--   Data Analysis
+-   Data Analysis in R
 
-    -   You can find [here](https://github.com/ccardonaandrade/analisis_de_datos/tree/main){target="_blank"} all the material in Spanish.
+    -   You can find [here](https://github.com/ccardonaandrade/analisis_de_datos/tree/main){target="_blank"} all the material, including syllabus and slides in Spanish.
 
 ### Graduate Teaching Assistant at University of Warwick
 
