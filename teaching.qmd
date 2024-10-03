@@ -11,9 +11,9 @@ subtitle: "Syllabi and websites for some of the courses I have taught in the UK 
 
     -   You can find [here](https://github.com/ccardonaandrade/analisis_de_datos/tree/main){target="_blank"} all the material in Spanish.
 
-### Teaching Assistant at University of Warwick
+### Graduate Teaching Assistant at University of Warwick
 
--   [EC124: Statistical Techniques](https://warwick.ac.uk/fac/soc/economics/current/modules/ec124/){target="_blank"} 
+-   [EC124: Statistical Techniques](https://warwick.ac.uk/fac/soc/economics/current/modules/ec124/){target="_blank"}
 
 -   [EC203: Applied Econometrics](https://warwick.ac.uk/fac/soc/economics/current/modules/ec203/){target="_blank"} - [Teaching Evaluation](teach_eval/ec203_carlos_cardona.pdf){target="_blank"}
 
