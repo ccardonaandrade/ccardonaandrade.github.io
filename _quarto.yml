@@ -12,9 +12,9 @@ website:
         text: Home
       - teaching.qmd
       - projects.qmd
-      - href: cv/carlos_cardona_cv.pdf
-        target: _blank
-        text: Resume
+#     - href: cv/carlos_cardona_cv.pdf
+#        target: _blank
+#        text: Resume
   page-footer: 
     right: |
       <span class="faux-block">Made with {{< fa brands r-project >}} and [Quarto](https://quarto.org/)</span>
