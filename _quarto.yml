@@ -17,9 +17,8 @@ website:
         text: Resume
   page-footer: 
     right: |
-      <span class="faux-block">Made with {{< fa brands r-project >}} and [Quarto](https://quarto.org/)</span>
-      <span class="faux-block">[View the source at {{< fa brands github >}} GitHub](https://github.com/ccardonaandrade/ccardonaandrade.github.io)</span>
-        
+     <span class="faux-block">Made with <i class="fab fa-r-project"></i> and <a href="https://quarto.org/">Quarto</a></span>
+     <span class="faux-block"><a href="https://github.com/ccardonaandrade/ccardonaandrade.github.io"><i class="fab fa-github"></i> View the source at GitHub</a></span>
 
 format:
   html:
