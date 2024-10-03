@@ -18,7 +18,7 @@ website:
   page-footer: 
     right: |
       <span class="faux-block">Made with {{< fa brands r-project >}} and [Quarto](https://quarto.org/)</span>
-      <span class="faux-block">[View the source at {{< fa brands github >}} GitHub](https://github.com/hail2thief/juan-quarto)</span>
+      <span class="faux-block">[View the source at {{< fa brands github >}} GitHub](https://github.com/ccardonaandrade/ccardonaandrade.github.io)</span>
 
 format:
   html:
