@@ -4,7 +4,6 @@ project:
 
 website:
   title: "Carlos Cardona Andrade"
-  favicon: <a href="https://www.flaticon.es/iconos-gratis/cuadro" title="cuadro iconos">Cuadro iconos creados por Freepik - Flaticon</a>
   search: false
   navbar:
     pinned: true
@@ -16,16 +15,17 @@ website:
 #     - href: cv/carlos_cardona_cv.pdf
 #        target: _blank
 #        text: Resume
+    background: "#F8F5F0"
   page-footer: 
     right: |
       <span class="faux-block">Made with {{< fa brands r-project >}} and [Quarto](https://quarto.org/){target="_blank"}</span>
       <span class="faux-block">[View the source at {{< fa brands github >}} GitHub](https://github.com/ccardonaandrade/ccardonaandrade.github.io){target="_blank"}</span>
-
+    background: "#F8F5F0"
 format:
   html:
     theme: 
-        - sandstone
-        - html/custom.scss
+        - sandbox
+        - html/style.scss
     fontawesome: true
     toc: false
     highlight-style: monokai

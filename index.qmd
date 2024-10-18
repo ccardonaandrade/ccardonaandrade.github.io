@@ -2,9 +2,10 @@
 title: "Carlos Cardona Andrade"
 image: "img/profile2.png"
 about: 
-  template: trestles
-  image-shape: rounded
-  image-width: 16em
+  id: hero-heading
+  template: solana
+  image-width: 7cm
+  image-shape: round
   links:
     - icon: envelope
       href: mailto:ccardonaandrade@gmail.com
@@ -20,13 +21,13 @@ about:
       target: _blank
 ---
 
-### Bio
+::: {#hero-heading}
 
 Welcome to my website! It is still under construction as you will notice while exploring other sections.
 
 I am economist interested in identity formation and nation building in Africa. I did my PhD at [The University of Warwick](https://warwick.ac.uk/){target="_blank"}.
 
-### Education
+## Education
 
 ```{r load_packages, message=FALSE, warning=FALSE, include=FALSE}
 library(fontawesome)
@@ -40,6 +41,8 @@ library(fontawesome)
 
 `r fontawesome::fa("graduation-cap", fill = "#660000", a11y = "sem")` **BA in Economics, 2014** \| Universidad del Rosario
 
-### Research interests
+## Research interests
 
 Development Economics \| Political Economy \| Economic History
+
+:::
