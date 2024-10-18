@@ -17,13 +17,10 @@ website:
 #        text: Resume
     background: "#F8F5F0"
   page-footer: 
-    right: |
-      <div class="faux-block">
-        Made with {{< fa brands r-project >}} and [Quarto](https://quarto.org/){target="_blank"}
-      </div>
-      <div class="faux-block">
-        [View the source at {{< fa brands github >}} GitHub](https://github.com/ccardonaandrade/ccardonaandrade.github.io){target="_blank"}
-      </div>
+    left: |
+      <span class="faux-block">Made with {{< fa brands r-project >}} and [Quarto](https://quarto.org/){target="_blank"}</span>
+    right: |  
+      <span class="faux-block">[View the source at {{< fa brands github >}} GitHub](https://github.com/ccardonaandrade/ccardonaandrade.github.io){target="_blank"}</span>
     background: "#F8F5F0"
 format:
   html:
