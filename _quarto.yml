@@ -18,8 +18,12 @@ website:
     background: "#F8F5F0"
   page-footer: 
     right: |
-      <span class="faux-block">Made with {{< fa brands r-project >}} and [Quarto](https://quarto.org/){target="_blank"}</span>
-      <span class="faux-block">[View the source at {{< fa brands github >}} GitHub](https://github.com/ccardonaandrade/ccardonaandrade.github.io){target="_blank"}</span>
+      <div class="faux-block">
+        Made with {{< fa brands r-project >}} and [Quarto](https://quarto.org/){target="_blank"}
+      </div>
+      <div class="faux-block">
+        [View the source at {{< fa brands github >}} GitHub](https://github.com/ccardonaandrade/ccardonaandrade.github.io){target="_blank"}
+      </div>
     background: "#F8F5F0"
 format:
   html:
