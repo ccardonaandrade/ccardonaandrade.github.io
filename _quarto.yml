@@ -4,6 +4,7 @@ project:
 
 website:
   title: "Carlos Cardona Andrade"
+  favicon: <a href="https://www.flaticon.es/iconos-gratis/cuadro" title="cuadro iconos">Cuadro iconos creados por Freepik - Flaticon</a>
   search: false
   navbar:
     pinned: true
