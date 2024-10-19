@@ -23,7 +23,7 @@ about:
 
 ::: {#hero-heading}
 
-Welcome to my website! I’m an economist with over 5 years of experience in advanced statistical techniques, econometrics, and data analysis. My work focuses on political economy, trade, and economic development, especially in Africa. I have taught and conducted research at institutions like the [University of Warwick](https://warwick.ac.uk/) and The World Bank. Maybe now?...
+Welcome to my website! I’m an economist with over 5 years of experience in advanced statistical techniques, econometrics, and data analysis. My work focuses on political economy, trade, and economic development, especially in Africa. I have taught and conducted research at institutions like the [University of Warwick](https://warwick.ac.uk/) and The World Bank.
 
 ## 🎓 Education
 
