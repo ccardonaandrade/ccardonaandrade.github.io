@@ -3,7 +3,9 @@ title: "Teaching"
 subtitle: "Syllabi and websites for some of the courses I have taught in the UK and Colombia"
 ---
 
-Please find my teaching statement [here](teaching_statement/teaching_statement.pdf){target="_blank"}
+## Teaching Philosophy
+
+I am committed to fostering an inclusive and engaging learning environment. Read my complete [teaching statement here](teaching_statement/teaching_statement.pdf){target="_blank"}.
 
 ## Undergraduate
 
