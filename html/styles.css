@@ -17,23 +17,23 @@
         p {
             font-family: 'IBM Plex Sans', sans-serif;
         }
+
+        /* Links */
+        a {
+            color: #4F7094;
+            text-decoration: underline;
+        }
+
+        a:hover {
+            color: #FB9E07;
+            text-decoration: underline;
+        }
     </style>
 </head>
 <body>
     <h1>Dermatological Diversity Visualized with UMAP</h1>
     <p>This blog post discusses the use of UMAP to visualize the Diverse Dermatology Images (DDI) dataset, highlighting the importance of representing diverse skin tones in AI training and testing.</p>
+    
+    <p>For more details, visit <a href="https://example.com">this link</a>.</p>
 </body>
 </html>
-
-
-/* Links */
-a {
-    color: #4F7094;
-    text-decoration: underline;
-}
-
-a:hover {
-    color: #FB9E07;
-    text-decoration: underline;
-}
-
