@@ -25,7 +25,6 @@ website:
 format:
   html:
     theme: 
-        - sandstone
         - html/style.css
     fontawesome: true
     toc: false
