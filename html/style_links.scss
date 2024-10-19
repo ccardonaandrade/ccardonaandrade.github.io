@@ -1,8 +1,19 @@
 /*-- scss:defaults --*/
 
-
 // Links
 $link-color: #4F7094 !default;
 $link-decoration: underline !default;
 $link-hover-color: #FB9E07 !default;
 $link-hover-decoration: underline !default;
+
+/*-- scss:rules --*/
+
+a {
+    color: $link-color;
+    text-decoration: $link-decoration;
+    
+    &:hover {
+        color: $link-hover-color;
+        text-decoration: $link-hover-decoration;
+    }
+}
