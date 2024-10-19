@@ -12,9 +12,9 @@ website:
         text: Home
       - teaching.qmd
       - projects.qmd
-#     - href: cv/carlos_cardona_cv.pdf
-#        target: _blank
-#        text: Resume
+      - href: cv/carlos_cardona_cv.pdf
+         target: _blank
+         text: Resume
     background: "#F8F5F0"
   page-footer: 
     left: |

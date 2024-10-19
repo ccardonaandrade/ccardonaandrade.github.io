@@ -25,3 +25,10 @@
 </body>
 </html>
 
+
+// Links
+$link-color: #4F7094 !default;
+$link-decoration: underline !default;
+$link-hover-color: #FB9E07 !default;
+$link-hover-decoration: underline !default;
+

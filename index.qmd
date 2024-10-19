@@ -27,21 +27,21 @@ Welcome to my website! It is still under construction as you will notice while e
 
 I am economist interested in identity formation and nation building in Africa. I did my PhD at [The University of Warwick](https://warwick.ac.uk/){target="_blank"}.
 
-## Education
+## 🎓 Education
 
 ```{r load_packages, message=FALSE, warning=FALSE, include=FALSE}
 library(fontawesome)
 ```
 
-`r fontawesome::fa("graduation-cap", fill = "#660000", a11y = "sem")` **PhD in Economics, 2024** \| University of Warwick
+**PhD in Economics, 2024** \| University of Warwick
 
-`r fontawesome::fa("graduation-cap", fill = "#660000", a11y = "sem")` **MRes in Economics, 2019** \| University of Warwick
+**MRes in Economics, 2019** \| University of Warwick
 
-`r fontawesome::fa("graduation-cap", fill = "#660000", a11y = "sem")` **MA in Economics, 2016** \| Universidad del Rosario
+**MA in Economics, 2016** \| Universidad del Rosario
 
-`r fontawesome::fa("graduation-cap", fill = "#660000", a11y = "sem")` **BA in Economics, 2014** \| Universidad del Rosario
+**BA in Economics, 2014** \| Universidad del Rosario
 
-## Research interests
+## 🔎 Research interests
 
 Development Economics \| Political Economy \| Economic History
 
