@@ -23,9 +23,7 @@ about:
 
 ::: {#hero-heading}
 
-Welcome to my website! It is still under construction as you will notice while exploring other sections. Another change...
-
-I am economist interested in identity formation and nation building in Africa. I did my PhD at [The University of Warwick](https://warwick.ac.uk/){target="_blank"}.
+Welcome to my website! Hi, I am an economist with over 5 years of experience in applying advanced statistical techniques, econometrics, and data analysis to address challenges in political economy, trade, and regional integration. My expertise spans large-scale data analysis, machine learning, and the visualization of high-dimensional data, with a focus on social sciences and economic development, particularly in Africa. I have a strong background in teaching and research, having worked with institutions like the University of Warwick, Universidad del Rosario, and The World Bank.
 
 ## 🎓 Education
 
