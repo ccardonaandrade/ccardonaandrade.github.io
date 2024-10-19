@@ -1,29 +1,37 @@
 /* css styles */
 /* Main font settings */
 body {
-    font-family: 'IBM Plex Sans', sans-serif;
+    font-family: 'IBM Plex Sans', sans-serif !important;
 }
 
 h1, h2, h3, h4, h5, h6 {
-    font-family: 'IBM Plex Sans', sans-serif;
+    font-family: 'IBM Plex Sans', sans-serif !important;
 }
 
 p {
-    font-family: 'IBM Plex Sans', sans-serif;
+    font-family: 'IBM Plex Sans', sans-serif !important;
 }
 
-/* Link styling */
+/* Link styling with higher specificity */
+#quarto-content a:link,
+#quarto-content a:visited,
 .content a:link,
-.content a:visited {
-    color: #4F7094;
-    text-decoration: underline;
+.content a:visited,
+main a:link,
+main a:visited {
+    color: #4F7094 !important;
+    text-decoration: underline !important;
 }
 
+#quarto-content a:hover,
+#quarto-content a:active,
 .content a:hover,
-.content a:active {
-    color: #FB9E07;
-    text-decoration: underline;
+.content a:active,
+main a:hover,
+main a:active {
+    color: #FB9E07 !important;
+    text-decoration: underline !important;
 }
 
-/* If you want to import the font */
+/* Font import */
 @import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;700&display=swap');
