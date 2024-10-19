@@ -1,38 +1,29 @@
 /* css styles */
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;700&display=swap" rel="stylesheet">
-    <style>
-        body {
-            font-family: 'IBM Plex Sans', sans-serif;
-        }
+/* Main font settings */
+body {
+    font-family: 'IBM Plex Sans', sans-serif;
+}
 
-        h1, h2, h3, h4, h5, h6 {
-            font-family: 'IBM Plex Sans', sans-serif;
-        }
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'IBM Plex Sans', sans-serif;
+}
 
-        p {
-            font-family: 'IBM Plex Sans', sans-serif;
-        }
+p {
+    font-family: 'IBM Plex Sans', sans-serif;
+}
 
-        a {
-            color: #4F7094;
-            text-decoration: underline;
-        }
+/* Link styling */
+.content a:link,
+.content a:visited {
+    color: #4F7094;
+    text-decoration: underline;
+}
 
-        a:hover {
-            color: #FB9E07;
-            text-decoration: underline;
-        }
-    </style>
-</head>
-<body>
-    <h1>Dermatological Diversity Visualized with UMAP</h1>
-    <p>This blog post discusses the use of UMAP to visualize the Diverse Dermatology Images (DDI) dataset, highlighting the importance of representing diverse skin tones in AI training and testing.</p>
-    
-    <p>For more details, visit <a href="https://example.com">this link</a>.</p>
-</body>
-</html>
+.content a:hover,
+.content a:active {
+    color: #FB9E07;
+    text-decoration: underline;
+}
+
+/* If you want to import the font */
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;700&display=swap');
